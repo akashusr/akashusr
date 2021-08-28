@@ -12,7 +12,7 @@ Developer](https://media-exp1.licdn.com/dms/image/C4E16AQHKuh9wn452Dw/profile-di
 
 ## 👨‍💻 Skills & Experience:
 <p align="left">
-<a href="https://www.gnu.org/software/bash/" target="_blank">
+<a style="margin: 5px" href="https://www.gnu.org/software/bash/" target="_blank">
   <img style="margin: 5px"
     src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
     alt="bash"
@@ -20,7 +20,7 @@ Developer](https://media-exp1.licdn.com/dms/image/C4E16AQHKuh9wn452Dw/profile-di
     height="30"
   />
 </a>
-<a href="https://getbootstrap.com" target="_blank">
+<a style="margin: 5px" href="https://getbootstrap.com" target="_blank">
   <img style="margin: 5px"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
     alt="bootstrap"
@@ -28,7 +28,7 @@ Developer](https://media-exp1.licdn.com/dms/image/C4E16AQHKuh9wn452Dw/profile-di
     height="30"
   />
 </a>
-<a href="https://www.w3schools.com/css/" target="_blank">
+<a style="margin: 5px" href="https://www.w3schools.com/css/" target="_blank">
   <img style="margin: 5px"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
     alt="css3"
@@ -36,7 +36,7 @@ Developer](https://media-exp1.licdn.com/dms/image/C4E16AQHKuh9wn452Dw/profile-di
     height="30"
   />
 </a>
-<a href="https://expressjs.com" target="_blank">
+<a style="margin: 5px" href="https://expressjs.com" target="_blank">
   <img style="margin: 5px"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
     alt="express"
@@ -44,7 +44,7 @@ Developer](https://media-exp1.licdn.com/dms/image/C4E16AQHKuh9wn452Dw/profile-di
     height="30"
   />
 </a>
-<a href="https://www.figma.com/" target="_blank">
+<a style="margin: 5px" href="https://www.figma.com/" target="_blank">
   <img style="margin: 5px"
     src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
     alt="figma"
@@ -52,7 +52,7 @@ Developer](https://media-exp1.licdn.com/dms/image/C4E16AQHKuh9wn452Dw/profile-di
     height="30"
   />
 </a>
-<a href="https://firebase.google.com/" target="_blank">
+<a style="margin: 5px" href="https://firebase.google.com/" target="_blank">
   <img style="margin: 5px"
     src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
     alt="firebase"
@@ -60,7 +60,7 @@ Developer](https://media-exp1.licdn.com/dms/image/C4E16AQHKuh9wn452Dw/profile-di
     height="30"
   />
 </a>
-<a href="https://git-scm.com/" target="_blank">
+<a style="margin: 5px" href="https://git-scm.com/" target="_blank">
   <img style="margin: 5px"
     src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
     alt="git"
@@ -68,7 +68,7 @@ Developer](https://media-exp1.licdn.com/dms/image/C4E16AQHKuh9wn452Dw/profile-di
     height="30"
   />
 </a>
-<a href="https://heroku.com" target="_blank">
+<a style="margin: 5px" href="https://heroku.com" target="_blank">
   <img style="margin: 5px"
     src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
     alt="heroku"
@@ -76,7 +76,7 @@ Developer](https://media-exp1.licdn.com/dms/image/C4E16AQHKuh9wn452Dw/profile-di
     height="30"
   />
 </a>
-<a href="https://www.w3.org/html/" target="_blank">
+<a style="margin: 5px" href="https://www.w3.org/html/" target="_blank">
   <img style="margin: 5px"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
     alt="html5"
@@ -84,7 +84,7 @@ Developer](https://media-exp1.licdn.com/dms/image/C4E16AQHKuh9wn452Dw/profile-di
     height="30"
   />
 </a>
-<a
+<a style="margin: 5px"
   href="https://www.adobe.com/in/products/illustrator.html"
   target="_blank"
 >
@@ -95,7 +95,7 @@ Developer](https://media-exp1.licdn.com/dms/image/C4E16AQHKuh9wn452Dw/profile-di
     height="30"
   />
 </a>
-<a
+<a style="margin: 5px"
   href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
   target="_blank"
 >
@@ -106,7 +106,7 @@ Developer](https://media-exp1.licdn.com/dms/image/C4E16AQHKuh9wn452Dw/profile-di
     height="30"
   />
 </a>
-<a href="https://www.mongodb.com/" target="_blank">
+<a style="margin: 5px" href="https://www.mongodb.com/" target="_blank">
   <img style="margin: 5px"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
     alt="mongodb"
@@ -114,7 +114,7 @@ Developer](https://media-exp1.licdn.com/dms/image/C4E16AQHKuh9wn452Dw/profile-di
     height="30"
   />
 </a>
-<a href="https://www.mysql.com/" target="_blank">
+<a style="margin: 5px" href="https://www.mysql.com/" target="_blank">
   <img style="margin: 5px"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
     alt="mysql"
@@ -122,7 +122,7 @@ Developer](https://media-exp1.licdn.com/dms/image/C4E16AQHKuh9wn452Dw/profile-di
     height="30"
   />
 </a>
-<a href="https://nodejs.org" target="_blank">
+<a style="margin: 5px" href="https://nodejs.org" target="_blank">
   <img style="margin: 5px"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
     alt="nodejs"
@@ -130,7 +130,7 @@ Developer](https://media-exp1.licdn.com/dms/image/C4E16AQHKuh9wn452Dw/profile-di
     height="30"
   />
 </a>
-<a href="https://www.photoshop.com/en" target="_blank">
+<a style="margin: 5px" href="https://www.photoshop.com/en" target="_blank">
   <img style="margin: 5px"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
     alt="photoshop"
@@ -146,7 +146,7 @@ Developer](https://media-exp1.licdn.com/dms/image/C4E16AQHKuh9wn452Dw/profile-di
     height="30"
   />
 </a>
-<a href="https://reactjs.org/" target="_blank">
+<a style="margin: 5px" href="https://reactjs.org/" target="_blank">
   <img style="margin: 5px"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
     alt="react"
@@ -154,7 +154,7 @@ Developer](https://media-exp1.licdn.com/dms/image/C4E16AQHKuh9wn452Dw/profile-di
     height="30"
   />
 </a>
-<a href="https://reactnative.dev/" target="_blank">
+<a style="margin: 5px" href="https://reactnative.dev/" target="_blank">
   <img style="margin: 5px"
     src="https://reactnative.dev/img/header_logo.svg"
     alt="reactnative"
@@ -162,7 +162,7 @@ Developer](https://media-exp1.licdn.com/dms/image/C4E16AQHKuh9wn452Dw/profile-di
     height="30"
   />
 </a>
-<a href="https://tailwindcss.com/" target="_blank">
+<a style="margin: 5px" href="https://tailwindcss.com/" target="_blank">
   <img style="margin: 5px"
     src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
     alt="tailwind"
@@ -170,7 +170,7 @@ Developer](https://media-exp1.licdn.com/dms/image/C4E16AQHKuh9wn452Dw/profile-di
     height="30"
   />
 </a>
-<a href="https://www.typescriptlang.org/" target="_blank">
+<a style="margin: 5px" href="https://www.typescriptlang.org/" target="_blank">
   <img style="margin: 5px"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
     alt="typescript"
@@ -178,7 +178,7 @@ Developer](https://media-exp1.licdn.com/dms/image/C4E16AQHKuh9wn452Dw/profile-di
     height="30"
   />
 </a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank">
+<a style="margin: 5px" href="https://www.adobe.com/products/xd.html" target="_blank">
   <img style="margin: 5px"
     src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
     alt="xd"
