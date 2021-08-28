@@ -8,7 +8,9 @@ Developer](https://media-exp1.licdn.com/dms/image/C4E16AQHKuh9wn452Dw/profile-di
   🥅 2021 Goals: React, Node, Mongo, Next.js, Express.js
 </p>
 
-![Profile views](https://gpvc.arturio.dev/akashusr) ## 👨‍💻 Skills & Experience:
+![Profile views](https://gpvc.arturio.dev/akashusr) 
+
+## 👨‍💻 Skills & Experience:
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img
@@ -188,7 +190,8 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashusr)]
 
 ![Top
 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashusr&layout=compact)
-## ☕ Connect with me! [![LinkedIn
+## ☕ Connect with me!
+[![LinkedIn
 Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/akashusr/)
 [![Facebook
 Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/akashusr/)
