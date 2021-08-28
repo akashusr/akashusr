@@ -6,9 +6,9 @@ Developer](https://media-exp1.licdn.com/dms/image/C4E16AQHKuh9wn452Dw/profile-di
   🖊️ Love to write code <br />
   🎤 Like to share my knowledge <br />
   🥅 2021 Goals: React, Node, Mongo, Next.js, Express.js
-</p>
+</p> <br/>
 
-![Profile views](https://gpvc.arturio.dev/akashusr) <br />
+![Profile views](https://gpvc.arturio.dev/akashusr)
 
 ## 👨‍💻 Skills & Experience:
 <p align="left">
@@ -146,14 +146,6 @@ Developer](https://media-exp1.licdn.com/dms/image/C4E16AQHKuh9wn452Dw/profile-di
     height="30"
   />
 </a>
-<a style="margin: 5px" href="https://reactjs.org/" target="_blank">
-  <img style="margin: 5px"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-    alt="react"
-    align="left" width="30"  
-    height="30"
-  />
-</a>
 <a style="margin: 5px" href="https://reactnative.dev/" target="_blank">
   <img style="margin: 5px"
     src="https://reactnative.dev/img/header_logo.svg"
@@ -187,10 +179,12 @@ Developer](https://media-exp1.licdn.com/dms/image/C4E16AQHKuh9wn452Dw/profile-di
   />
 </a>
 </p>
-<br>
 
-##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashusr&layout=compact)
+<br/>
+<br/>
+
+## 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashusr&layout=compact) 
 
 ## ☕ Connect with me! 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/akashusr/)
