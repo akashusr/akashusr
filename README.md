@@ -1,4 +1,4 @@
-![akashusr github banner](https://media-exp1.licdn.com/dms/image/C4E16AQHKuh9wn452Dw/profile-displaybackgroundimage-shrink_350_1400/0/1623422224375?e=1635379200&v=beta&t=17Q6-0I7EsKcOfbEWwoicZCnriotZlekEgRfZx3vJW0)
+![akashusr github banner](https://www.linkedin.com/in/akashusr/overlay/background-image/)
 ## Hi, I'm Akash Ahmed <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 <p>
   👑 I am Web Developer <br />
