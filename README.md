@@ -9,7 +9,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/akashusr)
 
-<p>I am a Full Stack developer, experience with web applications and building websites, who is passionate about making error-free websites with 100% client satisfaction. I have professional experience working with React, MongoDB, Node, Express and JavaScript. I am undergraduate honours in G&E. In my free time, I study new technologies. I am both driven and self-motivated.<p/>
+<p>I am a junior web developer, with experience in web applications and building websites. I am undergraduate honours in G&E. In my free time, I study new technologies. I am both driven and self-motivated.<p/>
 
 ## 👨‍💻 Skills & Experience:
 <p align="left">
