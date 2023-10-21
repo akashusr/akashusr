@@ -6,10 +6,8 @@
   👑 I am Web Developer <br />
   🖊️ Love to write code <br />
   🎤 Like to share my knowledge <br />
-  🥅 2021 Goals: React, Node, Mongo, Next.js, Express.js
+  🥅 Goals: React, Node, Mongo, Next.js, Express.js
 </p><br/>
-
-![Profile views](https://gpvc.arturio.dev/akashusr)
 
 <p>I am a junior web developer, with experience in web applications and building websites. I am undergraduate honours in G&E. In my free time, I study new technologies. I am both driven and self-motivated.<p/>
 
