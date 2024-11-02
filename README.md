@@ -6,236 +6,37 @@
   👑 I am Web Developer <br />
   🖊️ Love to write code <br />
   🎤 Like to share my knowledge <br />
-  🥅 Goals: React, Node, Mongo, Next.js, Express.js
+  🥅 Goals: Need to know!
 </p><br/>
 
 <p>I am a junior web developer, with experience in web applications and building websites. I am undergraduate honours in G&E. In my free time, I study new technologies. I am both driven and self-motivated.<p/>
 
-## 👨‍💻 Skills & Experience:
-<p align="left">
-  <a style="margin: 5px" href="https://www.w3.org/html/" target="_blank">
-    <img
-      style="margin: 5px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      align="left"
-      width="30"
-      height="30"
-    />
-  </a>
+## 👨‍💻 Languages and Tools:
 
-  <a style="margin: 5px" href="https://www.w3schools.com/css/" target="_blank">
-    <img
-      style="margin: 5px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      align="left"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a style="margin: 5px" href="https://getbootstrap.com" target="_blank">
-    <img
-      style="margin: 5px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      align="left"
-      width="30"
-      height="30"
-    />
-  </a>
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
+![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-000000?style=flat&logo=Tailwindcss)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Nextjs](https://img.shields.io/badge/-Nextjs-000000?style=flat&logo=Next.js)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC&labelColor=ffffff)
+![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=Figma)
+![Adobe](https://img.shields.io/badge/-Adobe-000000?style=flat&logo=Adobe)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
+![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
+![Bootstrap5](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
+![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=ffffff&labelColor=0081CB)
+![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
+![Json Web Tokens](https://img.shields.io/badge/-Json%20Web%20Tokens-000000?style=flat&logo=json-web-tokens&logoColor=ffffff&labelColor=000000)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
+![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm)
+![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
+![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 
-  <a style="margin: 5px" href="https://tailwindcss.com/" target="_blank">
-    <img
-      style="margin: 5px"
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      align="left"
-      width="30"
-      height="30"
-    />
-  </a>
-
-  <a style="margin: 5px" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" >
-    <img
-      style="margin: 5px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      align="left"
-      width="30"
-      height="30"
-    />
-  </a>
-
-  <a style="margin: 5px" href="https://www.typescriptlang.org/" target="_blank">
-    <img
-      style="margin: 5px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      align="left"
-      width="30"
-      height="30"
-    />
-  </a>
-
-  <a style="margin: 5px" href="https://reactjs.org/" target="_blank">
-    <img
-      style="margin: 5px"
-      src="https://reactnative.dev/img/header_logo.svg"
-      alt="react"
-      align="left"
-      width="30"
-      height="30"
-    />
-  </a>
-
-  <a style="margin: 5px" href="https://nodejs.org" target="_blank">
-    <img
-      style="margin: 5px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      align="left"
-      width="30"
-      height="30"
-    />
-  </a>
-
-  <a style="margin: 5px" href="https://expressjs.com" target="_blank">
-    <img
-      style="margin: 5px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
-      align="left"
-      width="30"
-      height="30"
-    />
-  </a>
-
-  <a style="margin: 5px" href="https://www.mongodb.com/" target="_blank">
-    <img
-      style="margin: 5px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      align="left"
-      width="30"
-      height="30"
-    />
-  </a>
-
-  <a style="margin: 5px" href="https://www.mysql.com/" target="_blank">
-    <img
-      style="margin: 5px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      align="left"
-      width="30"
-      height="30"
-    />
-  </a>
-
-  <a style="margin: 5px" href="https://firebase.google.com/" target="_blank">
-    <img
-      style="margin: 5px"
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      align="left"
-      width="30"
-      height="30"
-    />
-  </a>
-
-  <a style="margin: 5px" href="https://heroku.com" target="_blank">
-    <img
-      style="margin: 5px"
-      src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
-      alt="heroku"
-      align="left"
-      width="30"
-      height="30"
-    />
-  </a>
-
-  <a style="margin: 5px" href="https://www.gnu.org/software/bash/"
-    target="_blank">
-    <img
-      style="margin: 5px"
-      src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
-      alt="bash"
-      align="left"
-      width="30"
-      height="30"
-    />
-  </a>
-
-  <a href="https://postman.com" target="_blank">
-    <img
-      style="margin: 5px"
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      align="left"
-      width="30"
-      height="30"
-    />
-  </a>
-
-  <a style="margin: 5px" href="https://git-scm.com/" target="_blank">
-    <img
-      style="margin: 5px"
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      align="left"
-      width="30"
-      height="30"
-    />
-  </a>
-
-  <a style="margin: 5px" href="https://www.figma.com/" target="_blank">
-    <img
-      style="margin: 5px"
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      align="left"
-      width="30"
-      height="30"
-    />
-  </a>
-
-  <a style="margin: 5px" href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
-    <img
-      style="margin: 5px"
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
-      alt="illustrator"
-      align="left"
-      width="30"
-      height="30"
-    />
-  </a>
-
-  <a style="margin: 5px" href="https://www.photoshop.com/en" target="_blank">
-    <img
-      style="margin: 5px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-      alt="photoshop"
-      align="left"
-      width="30"
-      height="30"
-    />
-  </a>
-
-  <a style="margin: 5px" href="https://www.adobe.com/products/xd.html" target="_blank">
-    <img
-      style="margin: 5px"
-      src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
-      alt="xd"
-      align="left"
-      width="30"
-      height="30"
-    />
-  </a>
-</p>
-
-<br/>
-<br/>
 
 ## 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashusr&layout=compact) 
