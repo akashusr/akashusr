@@ -1,62 +1,80 @@
-<!-- //![akashusr Github Banner](assets/akashusr.jpg) -->
-<img src="https://profile-assets.showwcase.com/51784/1685443767030-akashusr-showwcase.png" alt="akashusr">
+<!-- Banner -->
+<img src="./assets/akashusr-github-akash-ahmed.jpeg" alt="Akash Ahmed's GitHub Banner" />
 
-## Hi, I'm Akash Ahmed <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25px" height="25px" alt="hi">
-<p>
-  👑 I am Web Developer <br />
-  🖊️ Love to write code <br />
-  🎤 Like to share my knowledge <br />
-  🥅 Goals: Need to know!
-</p><br/>
+# 👋 Hi, I’m Akash Ahmed
 
-<p>I am a junior web developer, with experience in web applications and building websites. I am undergraduate honours in G&E. In my free time, I study new technologies. I am both driven and self-motivated.<p/>
+💼 **Executive – Product & Support @ [Learn with Sumit (LWS)](https://learnwithsumit.com/)** (2021 – Present) <br>
+🚀 Passionate about **Web Development, Product Growth & Developer Experience**<br>
+🌱 Exploring **MERN Stack, DevOps, and Scalable Web Apps**<br>
+✨ Believer in **Clean Code, Problem Solving, and Continuous Learning**
 
-## 👨‍💻 Languages and Tools:
+## 💼 Experience
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
-![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-000000?style=flat&logo=Tailwindcss)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Nextjs](https://img.shields.io/badge/-Nextjs-000000?style=flat&logo=Next.js)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC&labelColor=ffffff)
-![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
-![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=Figma)
-![Adobe](https://img.shields.io/badge/-Adobe-000000?style=flat&logo=Adobe)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
-![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
-![Bootstrap5](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
-![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=ffffff&labelColor=0081CB)
-![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
-![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
-![Json Web Tokens](https://img.shields.io/badge/-Json%20Web%20Tokens-000000?style=flat&logo=json-web-tokens&logoColor=ffffff&labelColor=000000)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
-![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm)
-![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
-![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
+### **Executive – Product & Support @ Learn with Sumit (LWS)**
 
+📍 _2021 – Present_
 
-## 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashusr&layout=compact) 
+-   Supporting & managing **LWS premium courses, products, and students community**
+-   Collaborating with developers & instructors to **improve course quality and developer experience**
+-   Contributed in building **LWS projects & assignments (MERN, React, Next.js, Node.js, MongoDB)**
+-   Handling **technical support, bug reports, and learner issues** to enhance product reliability
+-   Optimizing processes for **course launches, platform updates, and product documentation**
 
-## ☕ Connect with me! 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/akashusr/)
-[![Facebook
-Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/akashusr/)
-[![Instagram
-Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=instagram&logoColor=ffffff)](https://www.instagram.com/akashusr/)
-[![Twitter
-Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https://twitter.com/akashusr)
-<br />
+## 🛠️ Tech Stack & Skills
 
-![GitHub
-stats](https://github-readme-stats.vercel.app/api?username=akashusr&show_icons=true)
-## 📧 For Business Inquiries:
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MaterialUI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+## 🌱 Currently Learning
+
+-   MERN Stack Advanced Concepts (SSR, API Integrations, Caching)
+-   Product Management & Scaling Developer Platforms
+-   Web Security, **JWT Authentication**, and Performance Optimization
+-   CI/CD & **DevOps basics** for modern deployment
+
+## 📊 GitHub Highlights
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=akashusr&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashusr&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+    <td>
+      <a href="https://app.daily.dev/akashusr"><img src="https://api.daily.dev/devcards/v2/o9MEldbrfOKSviCyWdpmT.png?type=default&r=5s0" width="356" alt="Ahmed Akash's Dev Card"/></a>
+    </td>
+  </tr>
+</table>
+
+## ☕ Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akashusr/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/akashusr/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.instagram.com/akashusr/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://twitter.com/akashusr"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+
+## 📧 Email
+
 <a href="mailto:akashahmed5724@gmail.com">
-  <img style="margin: 5px"
-    src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-akashahmed5724%40gmail.com-brightgreen"
-    alt="emailAddress"
-  />
+  <img src="https://img.shields.io/badge/Email-akashahmed5724%40gmail.com-1877F2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
