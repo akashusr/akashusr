@@ -82,11 +82,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/akashusr?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/api/?username=akashusr&theme=tokyonight&margin-w=10&margin-h=15&no-frame=true&column=4" alt="GitHub Trophies"/>
-  </a>
-</p>
 
 ## ☕ Let’s Connect
 
