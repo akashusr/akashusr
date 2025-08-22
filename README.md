@@ -3,9 +3,9 @@
 
 # 👋 Hi, I’m Akash Ahmed
 
-💼 **Executive – Product & Support @ [Learn with Sumit (LWS)](https://learnwithsumit.com/)** (2021 – Present) <br>
-🚀 Passionate about **Web Development, Product Growth & Developer Experience**<br>
-🌱 Exploring **MERN Stack, DevOps, and Scalable Web Apps**<br>
+💼 **Executive – Product & Support @ [Learn with Sumit (LWS)](https://learnwithsumit.com/)** (2021 – Present)
+🚀 Passionate about **Web Development, Product Growth & Developer Experience**
+🌱 Exploring **MERN Stack, DevOps, and Scalable Web Apps**
 ✨ Believer in **Clean Code, Problem Solving, and Continuous Learning**
 
 ## 💼 Experience
@@ -59,10 +59,34 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashusr&layout=compact&theme=tokyonight" alt="Top Languages" />
     </td>
     <td>
-      <a href="https://app.daily.dev/akashusr"><img src="https://api.daily.dev/devcards/v2/o9MEldbrfOKSviCyWdpmT.png?type=default&r=5s0" width="356" alt="Ahmed Akash's Dev Card"/></a>
+      <a href="https://app.daily.dev/akashusr"><img src="https://api.daily.dev/devcards/v2/o9MEldbrfOKSviCyWdpmT.png?type=default&r=hui" width="356" alt="Ahmed Akash's Dev Card"/></a>
     </td>
   </tr>
 </table>
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github.com/akashusr.png" width="100" style="border-radius:50%" alt="Akash Profile"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/akashusr?tab=achievements&achievement=starstruck">
+    <img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" width="64" alt="Starstruck Achievement"/>
+  </a>
+  <a href="https://github.com/akashusr?tab=achievements&achievement=yolo">
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="64" alt="YOLO Achievement"/>
+  </a>
+  <a href="https://github.com/akashusr?tab=achievements&achievement=pull-shark">
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="64" alt="Pull Shark Achievement"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/akashusr?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/api/?username=akashusr&theme=tokyonight&margin-w=10&margin-h=15&no-frame=true&column=4" alt="GitHub Trophies"/>
+  </a>
+</p>
 
 ## ☕ Let’s Connect
 
@@ -73,8 +97,10 @@
   <a href="https://twitter.com/akashusr"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
-## 📧 Email
+---
+
+## 📧 Business Inquiries
 
 <a href="mailto:akashahmed5724@gmail.com">
-  <img src="https://img.shields.io/badge/Email-akashahmed5724%40gmail.com-1877F2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/📧%20Email-akashahmed5724%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
