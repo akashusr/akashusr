@@ -3,9 +3,9 @@
 
 # 👋 Hi, I’m Akash Ahmed
 
-💼 **Executive – Product & Support @ [Learn with Sumit (LWS)](https://learnwithsumit.com/)** (2021 – Present)
-🚀 Passionate about **Web Development, Product Growth & Developer Experience**
-🌱 Exploring **MERN Stack, DevOps, and Scalable Web Apps**
+💼 **Executive – Product & Support @ [Learn with Sumit (LWS)](https://learnwithsumit.com/)** (2021 – Present) <br>
+🚀 Passionate about **Web Development, Product Growth & Developer Experience**<br>
+🌱 Exploring **MERN Stack, DevOps, and Scalable Web Apps**<br>
 ✨ Believer in **Clean Code, Problem Solving, and Continuous Learning**
 
 ## 💼 Experience
