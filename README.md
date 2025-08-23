@@ -8,18 +8,18 @@
 🌱 Exploring **MERN Stack, DevOps, and Scalable Web Apps**<br>
 ✨ Believer in **Clean Code, Problem Solving, and Continuous Learning**
 
-# Github Breakout
+# Github Breakout Commit Graph
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="./images/breakout-dark.svg"
+    srcset="./assets/breakout-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="./images/breakout-light.svg"
+    srcset="./assets/breakout-light.svg"
   />
-  <img alt="Breakout Game" src="images/breakout-light.svg">
+  <img alt="Breakout Game" src="./assets/breakout-light.svg">
 </picture>
 
 ## 💼 Experience
