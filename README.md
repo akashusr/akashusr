@@ -8,7 +8,7 @@
 🌱 Exploring **MERN Stack, DevOps, and Scalable Web Apps**<br>
 ✨ Believer in **Clean Code, Problem Solving, and Continuous Learning**
 
-# Github Breakout Commit Graph
+## GitHub Breakout
 
 <picture>
   <source
