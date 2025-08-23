@@ -8,6 +8,20 @@
 🌱 Exploring **MERN Stack, DevOps, and Scalable Web Apps**<br>
 ✨ Believer in **Clean Code, Problem Solving, and Continuous Learning**
 
+# Github Breakout
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg">
+</picture>
+
 ## 💼 Experience
 
 ### **Executive – Product & Support @ Learn with Sumit (LWS)**
@@ -81,7 +95,6 @@
     <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="64" alt="Pull Shark Achievement"/>
   </a>
 </p>
-
 
 ## ☕ Let’s Connect
 

@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "github-breakout": "github:cyprieng/github-breakout"
+  }
+}
