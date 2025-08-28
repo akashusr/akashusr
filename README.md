@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="./assets/akashusr-github-akash-ahmed.jpeg" alt="Akash Ahmed's GitHub Banner" />
+<img src="./assets/akash-ahmed-akashusr.png" alt="Akash Ahmed's GitHub Banner" />
 
 # 👋 Hi, I’m Akash Ahmed
 
