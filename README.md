@@ -66,14 +66,10 @@
 
 ## 📊 GitHub Highlights
 
-<table border="0">
+<table >
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=akashusr&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashusr&layout=compact&theme=tokyonight" alt="Top Languages" />
-    </td>
-    <td>
-      <a href="https://app.daily.dev/akashusr"><img src="https://api.daily.dev/devcards/v2/o9MEldbrfOKSviCyWdpmT.png?type=default&r=hui" width="356" alt="Ahmed Akash's Dev Card"/></a>
+      <a href="https://app.daily.dev/akashusr"><img src="https://api.daily.dev/devcards/v2/o9MEldbrfOKSviCyWdpmT.png?type=default&r=hui" width="356" alt="Akash Ahmed's Dev Card"/></a>
     </td>
   </tr>
 </table>
