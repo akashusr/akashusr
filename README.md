@@ -1,146 +1,107 @@
-<!-- ========================================= -->
-<!--              HERO SECTION                -->
-<!-- ========================================= -->
-
 <div align="center">
 
-<img src="./assets/akash-ahmed-akashusr.png" width="100%" alt="Akash Ahmed Banner" />
+  <img src="./assets/akash-ahmed-akashusr.png" width="100%" alt="Akash Ahmed Banner" />
 
-# Akash Ahmed
+  <h1 align="center">Akash Ahmed</h1>
+  
+  <p align="center">
+    <strong>Product Support Executive • Full-Stack Developer • Developer Experience (DX)</strong>
+  </p>
 
-### Product Support Executive • MERN Stack Enthusiast • Developer Experience
-
-<p>
-  <a href="https://learnwithsumit.com/">
-    <img src="https://img.shields.io/badge/Learn%20with%20Sumit-111827?style=flat-square&logo=googlechrome&logoColor=white" />
-  </a>
-
-  <a href="mailto:akashahmed5724@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/akashusr">
-    <img src="https://img.shields.io/github/followers/akashusr?style=flat-square&logo=github&label=Followers&color=111827" />
-  </a>
-
-  <img src="https://komarev.com/ghpvc/?username=akashusr&style=flat-square&color=111827" />
-</p>
+  <p align="center">
+    <a href="https://learnwithsumit.com/">
+      <img src="https://img.shields.io/badge/Learn%20with%20Sumit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="LWS" />
+    </a>
+    <a href="mailto:akashahmed5724@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://github.com/akashusr">
+      <img src="https://img.shields.io/github/followers/akashusr?style=for-the-badge&logo=github&label=Followers&color=111827" alt="Followers" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=akashusr&style=for-the-badge&color=111827" alt="Profile Views" />
+  </p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 Executive Summary
 
-```js
-const akash = {
-  role: "Executive - Product & Support",
-  company: "Learn with Sumit (LWS)",
-  experience: "2021 - Present",
-  focus: [
-    "Web Development",
-    "Developer Experience",
-    "Product Growth",
-    "Scalable Web Apps"
-  ],
-  learning: [
-    "Advanced MERN",
-    "DevOps",
-    "System Design",
-    "Performance Optimization"
-  ],
-  mindset: "Build clean. Learn daily. Solve real problems."
-};
-```
+I operate at the intersection of **Product Engineering, Developer Support, and System Reliability** at [**Learn with Sumit (LWS)**](https://learnwithsumit.com/). My focus revolves around building resilient full-stack applications with the **MERN** ecosystem, streamlining Developer Experience (DX), and building modern workflows utilizing **AI-driven tooling & APIs**.
 
-💼 I work at **Learn with Sumit (LWS)** where I help improve  
-developer experience, product quality, technical support, and learning systems.
-
-⚡ I love building modern and scalable web applications using  
-**React, Next.js, Node.js, MongoDB, and clean UI architecture.**
+* 💼 **Current Role:** Executive — Product & Support at **Learn with Sumit (LWS)** *(2021 – Present)*.
+* ⚡ **Core Philosophy:** *"Code isn't just about syntax; it's about eliminating user friction, reducing cognitive load, and creating seamless developer workflows."*
+* 🤖 **AI-Augmented Engineering:** Integrating LLM tool-calling, Prompt Engineering, and AI APIs (Claude, OpenAI Codex/GPT, Gemini) to build intelligent automation pipelines.
+* 🎯 **Continuous Learning:** System Architecture, Distributed Systems, Microservices, and Edge Deployments.
 
 ---
 
-## ☕ Currently
+## 🛠 Tech Stack at a Glance
 
-```yaml
-name: Akash Ahmed
-location: Bangladesh
-role: Product Support Executive
-company: Learn with Sumit
-experience: 2021 - Present
-focus: Developer Experience & Web Products
-open_to: Collaboration & Learning
-```
+All icons powered directly by **[skillicons.dev](https://skillicons.dev/)**:
+
+| Domain | Stack & Technologies |
+| :--- | :--- |
+| **Frontend Architecture** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap&theme=dark" alt="Frontend" /></a> |
+| **Backend & Databases** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,firebase,graphql&theme=dark" alt="Backend" /></a> |
+| **AI, Python & Cloud** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,fastapi,pytorch,tensorflow,cloudflare,docker,kubernetes,aws,gcp&theme=dark" alt="AI and Cloud" /></a> |
+| **Dev Tools & Workflow** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,vscode,figma,linux,bash&theme=dark" alt="Tools" /></a> |
+
+> 🧠 **AI & LLM Toolchain:** Claude 3.5 Sonnet, OpenAI Codex / GPT-4o, Google Gemini Pro, Cursor AI, GitHub Copilot, and LangChain ecosystem.
 
 ---
 
-## 🧠 What I Do
+## 💻 Technical Blueprint & Agent Workflow
 
-```txt
-💻 Build modern web interfaces
-⚡ Improve developer experience
-🧩 Solve product & technical issues
-📚 Help developers learn better
-🚀 Work on scalable web systems
+```typescript
+interface EngineerProfile {
+  name: "Akash Ahmed";
+  organization: "Learn with Sumit (LWS)";
+  specialization: "Developer Experience & Full-Stack Systems";
+  coreStack: ["TypeScript", "Next.js", "Node.js", "Express", "MongoDB"];
+  aiEcosystem: ["OpenAI & Gemini APIs", "Prompt Engineering", "Copilot", "Claude"];
+  currentMission: "Building scalable learning products & diagnosing complex developer issues";
+}
+
+// Modern AI-Assisted Issue Triage Pipeline
+async function resolveDeveloperIssue(ticket: SupportQuery): Promise<Resolution> {
+  const context = await fetchLwsKnowledgeBase(ticket.query);
+  const aiAugmentedSolution = await generateSmartFix({ ticket, context });
+
+  return deployFixAndNotify({
+    author: "Akash Ahmed",
+    status: "Resolved",
+    dxImpact: "High"
+  });
+}
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Featured Experience & Impact
+
+### 🎓 Learn with Sumit (LWS) — Educational Platform & Ecosystem
+> Empowering **thousands of developers and tech students** with scalable tech education, robust platform features, and rapid technical resolution.
+
+**🔧 Key Impact & Responsibilities:**
+- **Product & Technical Support:** Diagnosing, debugging, and resolving real-time architectural, state management, and API issues for thousands of active developers.
+- **Developer Experience (DX):** Streamlining curriculum pipelines, learning tracks, and technical feedback loops to minimize learner churn.
+- **Full-Stack Engineering:** Contributing to platform enhancements using **Next.js, Node.js, and MongoDB** for performance and minimal latency.
+- **AI Automation:** Applying smart query classification and prompt pipelines to automate frequent developer questions.
+
+---
+
+## 📊 GitHub Analytics & Activity
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,firebase,git,github,vscode,figma&theme=dark" />
+  <img height="165" src="https://streak-stats.demolab.com?user=akashusr&theme=tokyonight&hide_border=true&date_format=M%20j%2C%20Y" alt="Akash's GitHub Streak" />
 
 </div>
 
 ---
 
-## 🎯 Current Focus
-
-<div align="center">
-
-| Area | Focus |
-|---|---|
-| Frontend | React, Next.js, UI/UX |
-| Backend | Node.js, Express, MongoDB |
-| DevOps | CI/CD, Deployment Basics |
-| System | Scalability & Architecture |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=akashusr&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashusr&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=akashusr&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-## 🧠 Developer Mindset
-
-> “I don’t just write code — I build solutions that make developers and users life easier.”
-
----
-
-## 🧩 Fun Section
+## 🎮 Take a Break
 
 <div align="center">
 
@@ -154,41 +115,25 @@ open_to: Collaboration & Learning
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Let's Connect
 
 <div align="center">
 
-<a href="https://discord.com/users/akashusr/">
-  <img src="https://skillicons.dev/icons?i=discord" />
-</a>
-
-<a href="https://www.linkedin.com/in/akashusr/">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://www.facebook.com/akashusr">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/akashusr/">
-  <img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-
-<a href="https://twitter.com/akashusr">
-  <img src="https://skillicons.dev/icons?i=twitter" />
-</a>
-
-</div>
-
----
-
-## 📬 Business Inquiries
-
-<div align="center">
-
-<a href="mailto:akashahmed5724@gmail.com">
-  <img src="https://img.shields.io/badge/Email-akashahmed5724%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/akashusr/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.com/users/akashusr/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord" />
+  </a>
+  <a href="https://twitter.com/akashusr" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/akashusr/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" />
+  </a>
+  <a href="mailto:akashahmed5724@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" />
+  </a>
 
 </div>
 
@@ -196,6 +141,6 @@ open_to: Collaboration & Learning
 
 <div align="center">
 
-### ✨ Build. Learn. Improve. Repeat.
+### ✨ Build. Learn. Automate. Repeat.
 
 </div>
